@@ -2,7 +2,7 @@
 
 To jest moje wypracowanie
 
-Wstałem rano.
+Wstałem rano. Zjadłem śniadanie.
 
 rozwinięcie
 
