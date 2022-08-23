@@ -2,7 +2,7 @@
 
 To jest moje wypracowanie
 
-wstęp
+Wstałem rano.
 
 rozwinięcie
 
