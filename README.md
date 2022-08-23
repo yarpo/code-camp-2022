@@ -9,3 +9,8 @@ Przyszedłem do biura i zrobiłem prezentację o Innowacji, AI i gicie.
 zakończenie
 
 podpis
+
+
+
+
+NOWY BRANCH
