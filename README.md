@@ -4,7 +4,7 @@ To jest moje wypracowanie
 
 Wstałem rano.
 
-rozwinięcie
+Przyszedłem do biura i zrobiłem prezentację o gicie!
 
 zakończenie
 
