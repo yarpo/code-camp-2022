@@ -1,6 +1,6 @@
 # code-camp-2022
 
-To jest moje wyopracowanie
+To jest moje wypracowanie
 
 wstęp
 
