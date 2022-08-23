@@ -4,7 +4,7 @@ To jest moje wypracowanie
 
 Wstałem rano.
 
-Przyszedłem do biura i zrobiłem prezentację o gicie!
+Przyszedłem do biura i zrobiłem prezentację o Innowacji, AI i gicie.
 
 zakończenie
 
