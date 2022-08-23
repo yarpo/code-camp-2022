@@ -2,7 +2,7 @@
 
 To jest moje wypracowanie
 
-Wstałem rano.
+Wstałem rano. Zjadłem śniadanie.
 
 Przyszedłem do biura i zrobiłem prezentację o Innowacji, AI i gicie.
 
